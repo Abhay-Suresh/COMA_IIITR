@@ -1,0 +1,215 @@
+{
+  "uniform": {
+    "cap_0.2": [
+      {
+        "n": 50,
+        "seed": 20251020,
+        "json": "knapsack_multisize_data\\uniform\\cap_0.2\\knapsack_n50_seed20251020.json",
+        "csv": "knapsack_multisize_data\\uniform\\cap_0.2\\knapsack_n50_seed20251020.csv",
+        "status": "saved"
+      },
+      {
+        "n": 200,
+        "seed": 20251021,
+        "json": "knapsack_multisize_data\\uniform\\cap_0.2\\knapsack_n200_seed20251021.json",
+        "csv": "knapsack_multisize_data\\uniform\\cap_0.2\\knapsack_n200_seed20251021.csv",
+        "status": "saved"
+      },
+      {
+        "n": 500,
+        "seed": 20251022,
+        "json": "knapsack_multisize_data\\uniform\\cap_0.2\\knapsack_n500_seed20251022.json",
+        "csv": "knapsack_multisize_data\\uniform\\cap_0.2\\knapsack_n500_seed20251022.csv",
+        "status": "saved"
+      }
+    ],
+    "cap_0.5": [
+      {
+        "n": 50,
+        "seed": 20251023,
+        "json": "knapsack_multisize_data\\uniform\\cap_0.5\\knapsack_n50_seed20251023.json",
+        "csv": "knapsack_multisize_data\\uniform\\cap_0.5\\knapsack_n50_seed20251023.csv",
+        "status": "saved"
+      },
+      {
+        "n": 200,
+        "seed": 20251024,
+        "json": "knapsack_multisize_data\\uniform\\cap_0.5\\knapsack_n200_seed20251024.json",
+        "csv": "knapsack_multisize_data\\uniform\\cap_0.5\\knapsack_n200_seed20251024.csv",
+        "status": "saved"
+      },
+      {
+        "n": 500,
+        "seed": 20251025,
+        "json": "knapsack_multisize_data\\uniform\\cap_0.5\\knapsack_n500_seed20251025.json",
+        "csv": "knapsack_multisize_data\\uniform\\cap_0.5\\knapsack_n500_seed20251025.csv",
+        "status": "saved"
+      }
+    ],
+    "cap_0.8": [
+      {
+        "n": 50,
+        "seed": 20251026,
+        "json": "knapsack_multisize_data\\uniform\\cap_0.8\\knapsack_n50_seed20251026.json",
+        "csv": "knapsack_multisize_data\\uniform\\cap_0.8\\knapsack_n50_seed20251026.csv",
+        "status": "saved"
+      },
+      {
+        "n": 200,
+        "seed": 20251027,
+        "json": "knapsack_multisize_data\\uniform\\cap_0.8\\knapsack_n200_seed20251027.json",
+        "csv": "knapsack_multisize_data\\uniform\\cap_0.8\\knapsack_n200_seed20251027.csv",
+        "status": "saved"
+      },
+      {
+        "n": 500,
+        "seed": 20251028,
+        "json": "knapsack_multisize_data\\uniform\\cap_0.8\\knapsack_n500_seed20251028.json",
+        "csv": "knapsack_multisize_data\\uniform\\cap_0.8\\knapsack_n500_seed20251028.csv",
+        "status": "saved"
+      }
+    ]
+  },
+  "normal": {
+    "cap_0.2": [
+      {
+        "n": 50,
+        "seed": 20251120,
+        "json": "knapsack_multisize_data\\normal\\cap_0.2\\knapsack_n50_seed20251120.json",
+        "csv": "knapsack_multisize_data\\normal\\cap_0.2\\knapsack_n50_seed20251120.csv",
+        "status": "saved"
+      },
+      {
+        "n": 200,
+        "seed": 20251121,
+        "json": "knapsack_multisize_data\\normal\\cap_0.2\\knapsack_n200_seed20251121.json",
+        "csv": "knapsack_multisize_data\\normal\\cap_0.2\\knapsack_n200_seed20251121.csv",
+        "status": "saved"
+      },
+      {
+        "n": 500,
+        "seed": 20251122,
+        "json": "knapsack_multisize_data\\normal\\cap_0.2\\knapsack_n500_seed20251122.json",
+        "csv": "knapsack_multisize_data\\normal\\cap_0.2\\knapsack_n500_seed20251122.csv",
+        "status": "saved"
+      }
+    ],
+    "cap_0.5": [
+      {
+        "n": 50,
+        "seed": 20251123,
+        "json": "knapsack_multisize_data\\normal\\cap_0.5\\knapsack_n50_seed20251123.json",
+        "csv": "knapsack_multisize_data\\normal\\cap_0.5\\knapsack_n50_seed20251123.csv",
+        "status": "saved"
+      },
+      {
+        "n": 200,
+        "seed": 20251124,
+        "json": "knapsack_multisize_data\\normal\\cap_0.5\\knapsack_n200_seed20251124.json",
+        "csv": "knapsack_multisize_data\\normal\\cap_0.5\\knapsack_n200_seed20251124.csv",
+        "status": "saved"
+      },
+      {
+        "n": 500,
+        "seed": 20251125,
+        "json": "knapsack_multisize_data\\normal\\cap_0.5\\knapsack_n500_seed20251125.json",
+        "csv": "knapsack_multisize_data\\normal\\cap_0.5\\knapsack_n500_seed20251125.csv",
+        "status": "saved"
+      }
+    ],
+    "cap_0.8": [
+      {
+        "n": 50,
+        "seed": 20251126,
+        "json": "knapsack_multisize_data\\normal\\cap_0.8\\knapsack_n50_seed20251126.json",
+        "csv": "knapsack_multisize_data\\normal\\cap_0.8\\knapsack_n50_seed20251126.csv",
+        "status": "saved"
+      },
+      {
+        "n": 200,
+        "seed": 20251127,
+        "json": "knapsack_multisize_data\\normal\\cap_0.8\\knapsack_n200_seed20251127.json",
+        "csv": "knapsack_multisize_data\\normal\\cap_0.8\\knapsack_n200_seed20251127.csv",
+        "status": "saved"
+      },
+      {
+        "n": 500,
+        "seed": 20251128,
+        "json": "knapsack_multisize_data\\normal\\cap_0.8\\knapsack_n500_seed20251128.json",
+        "csv": "knapsack_multisize_data\\normal\\cap_0.8\\knapsack_n500_seed20251128.csv",
+        "status": "saved"
+      }
+    ]
+  },
+  "zipf": {
+    "cap_0.2": [
+      {
+        "n": 50,
+        "seed": 20251220,
+        "json": "knapsack_multisize_data\\zipf\\cap_0.2\\knapsack_n50_seed20251220.json",
+        "csv": "knapsack_multisize_data\\zipf\\cap_0.2\\knapsack_n50_seed20251220.csv",
+        "status": "saved"
+      },
+      {
+        "n": 200,
+        "seed": 20251221,
+        "json": "knapsack_multisize_data\\zipf\\cap_0.2\\knapsack_n200_seed20251221.json",
+        "csv": "knapsack_multisize_data\\zipf\\cap_0.2\\knapsack_n200_seed20251221.csv",
+        "status": "saved"
+      },
+      {
+        "n": 500,
+        "seed": 20251222,
+        "json": "knapsack_multisize_data\\zipf\\cap_0.2\\knapsack_n500_seed20251222.json",
+        "csv": "knapsack_multisize_data\\zipf\\cap_0.2\\knapsack_n500_seed20251222.csv",
+        "status": "saved"
+      }
+    ],
+    "cap_0.5": [
+      {
+        "n": 50,
+        "seed": 20251223,
+        "json": "knapsack_multisize_data\\zipf\\cap_0.5\\knapsack_n50_seed20251223.json",
+        "csv": "knapsack_multisize_data\\zipf\\cap_0.5\\knapsack_n50_seed20251223.csv",
+        "status": "saved"
+      },
+      {
+        "n": 200,
+        "seed": 20251224,
+        "json": "knapsack_multisize_data\\zipf\\cap_0.5\\knapsack_n200_seed20251224.json",
+        "csv": "knapsack_multisize_data\\zipf\\cap_0.5\\knapsack_n200_seed20251224.csv",
+        "status": "saved"
+      },
+      {
+        "n": 500,
+        "seed": 20251225,
+        "json": "knapsack_multisize_data\\zipf\\cap_0.5\\knapsack_n500_seed20251225.json",
+        "csv": "knapsack_multisize_data\\zipf\\cap_0.5\\knapsack_n500_seed20251225.csv",
+        "status": "saved"
+      }
+    ],
+    "cap_0.8": [
+      {
+        "n": 50,
+        "seed": 20251226,
+        "json": "knapsack_multisize_data\\zipf\\cap_0.8\\knapsack_n50_seed20251226.json",
+        "csv": "knapsack_multisize_data\\zipf\\cap_0.8\\knapsack_n50_seed20251226.csv",
+        "status": "saved"
+      },
+      {
+        "n": 200,
+        "seed": 20251227,
+        "json": "knapsack_multisize_data\\zipf\\cap_0.8\\knapsack_n200_seed20251227.json",
+        "csv": "knapsack_multisize_data\\zipf\\cap_0.8\\knapsack_n200_seed20251227.csv",
+        "status": "saved"
+      },
+      {
+        "n": 500,
+        "seed": 20251228,
+        "json": "knapsack_multisize_data\\zipf\\cap_0.8\\knapsack_n500_seed20251228.json",
+        "csv": "knapsack_multisize_data\\zipf\\cap_0.8\\knapsack_n500_seed20251228.csv",
+        "status": "saved"
+      }
+    ]
+  }
+}
