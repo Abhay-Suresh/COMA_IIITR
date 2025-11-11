@@ -18,18 +18,18 @@ Systematically evaluate classical and metaheuristic approaches for the 0/1 Knaps
 
 **Amod**
 * **Classical Approach:** Dynamic Programming (Exact Algorithm), Greedy Algorithm: Value-to-weight ratio heuristic
-* **Metaheuristic:** Genetic Algorithm (GA), Tabu Search (TS)
+* **Metaheuristic:** Genetic Algorithm (GA)
 * **Quantum:** Grover-based search optimization (Grover's Adversarial Search)
 
 
 **Kartik**
 * **Classical Approach:** Branch and Bound (Exact Algorithm), Greedy Algorithm: Value-based heuristic
-* **Metaheuristic:** Ant Colony Optimization (ACO), Differential Evolution (DE)
+* **Metaheuristic:** Ant Colony Optimization (ACO)
 * **Quantum:** Quantum Approximate Optimization Algorithm (QAOA)
 
 **Sudarshan**
 * **Classical Approach:** Backtracking (Exact Algorithm), Greedy Algorithm: Weight-first heuristic
-* **Metaheuristic:** Particle Swarm Optimization (PSO), Simulated Annealing (SA)
+* **Metaheuristic:** Particle Swarm Optimization (PSO)
 * **Quantum:** Quantum Annealing
 
 ### References for Quantum Optimization (Will be updated soon...)
