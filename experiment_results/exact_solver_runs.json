@@ -1,0 +1,281 @@
+[
+  {
+    "method": "BranchAndBound",
+    "parameters": {
+      "note": "Exact B&B solver"
+    },
+    "seed": null,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251020.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251020,
+    "best_value": 25554.0,
+    "runtime": 0.19803529989439994,
+    "logs": {
+      "message": "branch_and_bound finished",
+      "runtime": 0.19801050005480647,
+      "final_value": 25554.0,
+      "final_weight": null,
+      "solution_size": 39,
+      "seed": null,
+      "params": {
+        "method": "branch_and_bound",
+        "nodes_explored": 281666
+      },
+      "extra": {},
+      "timestamp": 1762966631.185792,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "BranchAndBound",
+    "parameters": {
+      "note": "Exact B&B solver"
+    },
+    "seed": null,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251023.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251023,
+    "best_value": 39931.0,
+    "runtime": 0.22431600000709295,
+    "logs": {
+      "message": "branch_and_bound finished",
+      "runtime": 0.2242949999636039,
+      "final_value": 39931.0,
+      "final_weight": null,
+      "solution_size": 65,
+      "seed": null,
+      "params": {
+        "method": "branch_and_bound",
+        "nodes_explored": 263577
+      },
+      "extra": {},
+      "timestamp": 1762966631.4103427,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "BranchAndBound",
+    "parameters": {
+      "note": "Exact B&B solver"
+    },
+    "seed": null,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251026.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251026,
+    "best_value": 45613.0,
+    "runtime": 0.22896529990248382,
+    "logs": {
+      "message": "branch_and_bound finished",
+      "runtime": 0.22894709999673069,
+      "final_value": 45613.0,
+      "final_weight": null,
+      "solution_size": 85,
+      "seed": null,
+      "params": {
+        "method": "branch_and_bound",
+        "nodes_explored": 174566
+      },
+      "extra": {},
+      "timestamp": 1762966631.640398,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "BranchAndBound",
+    "parameters": {
+      "note": "Exact B&B solver"
+    },
+    "seed": null,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251120.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251120,
+    "best_value": 18691.0,
+    "runtime": 0.1958042000187561,
+    "logs": {
+      "message": "branch_and_bound finished",
+      "runtime": 0.19578400009777397,
+      "final_value": 18691.0,
+      "final_weight": null,
+      "solution_size": 29,
+      "seed": null,
+      "params": {
+        "method": "branch_and_bound",
+        "nodes_explored": 347004
+      },
+      "extra": {},
+      "timestamp": 1762966631.836607,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "BranchAndBound",
+    "parameters": {
+      "note": "Exact B&B solver"
+    },
+    "seed": null,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251123.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251123,
+    "best_value": 33427.0,
+    "runtime": 0.3733124000718817,
+    "logs": {
+      "message": "branch_and_bound finished",
+      "runtime": 0.37329240003600717,
+      "final_value": 33427.0,
+      "final_weight": null,
+      "solution_size": 58,
+      "seed": null,
+      "params": {
+        "method": "branch_and_bound",
+        "nodes_explored": 513424
+      },
+      "extra": {},
+      "timestamp": 1762966632.2104042,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "BranchAndBound",
+    "parameters": {
+      "note": "Exact B&B solver"
+    },
+    "seed": null,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251126.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251126,
+    "best_value": 43669.0,
+    "runtime": 0.2567524000769481,
+    "logs": {
+      "message": "branch_and_bound finished",
+      "runtime": 0.2567331000464037,
+      "final_value": 43669.0,
+      "final_weight": null,
+      "solution_size": 84,
+      "seed": null,
+      "params": {
+        "method": "branch_and_bound",
+        "nodes_explored": 184489
+      },
+      "extra": {},
+      "timestamp": 1762966632.4674962,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "BranchAndBound",
+    "parameters": {
+      "note": "Exact B&B solver"
+    },
+    "seed": null,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251220.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251220,
+    "best_value": 2064.0,
+    "runtime": 30.46123519993853,
+    "logs": {
+      "message": "branch_and_bound finished",
+      "runtime": 30.46120860008523,
+      "final_value": 2064.0,
+      "final_weight": null,
+      "solution_size": 70,
+      "seed": null,
+      "params": {
+        "method": "branch_and_bound",
+        "nodes_explored": 52059690
+      },
+      "extra": {},
+      "timestamp": 1762966662.9294744,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "BranchAndBound",
+    "parameters": {
+      "note": "Exact B&B solver"
+    },
+    "seed": null,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251223.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251223,
+    "best_value": 1332.0,
+    "runtime": 2.3489424000727013,
+    "logs": {
+      "message": "branch_and_bound finished",
+      "runtime": 2.3489250000566244,
+      "final_value": 1332.0,
+      "final_weight": null,
+      "solution_size": 98,
+      "seed": null,
+      "params": {
+        "method": "branch_and_bound",
+        "nodes_explored": 1134776
+      },
+      "extra": {},
+      "timestamp": 1762966665.2792556,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "BranchAndBound",
+    "parameters": {
+      "note": "Exact B&B solver"
+    },
+    "seed": null,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251226.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251226,
+    "best_value": 2194.0,
+    "runtime": 6.3007399999769405,
+    "logs": {
+      "message": "branch_and_bound finished",
+      "runtime": 6.300720599945635,
+      "final_value": 2194.0,
+      "final_weight": null,
+      "solution_size": 98,
+      "seed": null,
+      "params": {
+        "method": "branch_and_bound",
+        "nodes_explored": 3544482
+      },
+      "extra": {},
+      "timestamp": 1762966671.5805073,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  }
+]

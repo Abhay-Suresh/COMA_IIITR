@@ -1,0 +1,3161 @@
+[
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251020.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251020,
+    "best_value": 17483.0,
+    "runtime": 1.3583098000381142,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.3582271999912336,
+      "final_value": 17483.0,
+      "final_weight": 5049.0,
+      "solution_size": 29,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9880.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -17483.0
+      },
+      "timestamp": 1762960572.4657493,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n100_seed20251020.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251020,
+    "best_value": 16414.0,
+    "runtime": 1.2774131000041962,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.2773281000554562,
+      "final_value": 16414.0,
+      "final_weight": 5049.0,
+      "solution_size": 25,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9880.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -16414.0
+      },
+      "timestamp": 1762960573.743842,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n100_seed20251020.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251020,
+    "best_value": 16714.0,
+    "runtime": 1.2839766999240965,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.2838977000210434,
+      "final_value": 16714.0,
+      "final_weight": 5049.0,
+      "solution_size": 32,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9880.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -16714.0
+      },
+      "timestamp": 1762960575.0277383,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n250_seed20251021.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251021,
+    "best_value": 38399.0,
+    "runtime": 6.240902899997309,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 6.240418100031093,
+      "final_value": 38399.0,
+      "final_weight": 12562.0,
+      "solution_size": 71,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9940.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -38399.0
+      },
+      "timestamp": 1762960581.2689073,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n250_seed20251021.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251021,
+    "best_value": 39181.0,
+    "runtime": 6.115602900041267,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 6.1152693999465555,
+      "final_value": 39181.0,
+      "final_weight": 12562.0,
+      "solution_size": 71,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9940.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -39181.0
+      },
+      "timestamp": 1762960587.3860166,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n250_seed20251021.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251021,
+    "best_value": 39812.0,
+    "runtime": 6.138230100041255,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 6.1377643999876454,
+      "final_value": 39812.0,
+      "final_weight": 12562.0,
+      "solution_size": 74,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9940.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -39812.0
+      },
+      "timestamp": 1762960593.5237062,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n500_seed20251022.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251022,
+    "best_value": 73352.0,
+    "runtime": 23.658506499952637,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 23.656198399956338,
+      "final_value": 73352.0,
+      "final_weight": 26023.0,
+      "solution_size": 145,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9950.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -73352.0
+      },
+      "timestamp": 1762960617.1815393,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n500_seed20251022.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251022,
+    "best_value": 69589.0,
+    "runtime": 23.415457500028424,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 23.412571399938315,
+      "final_value": 69589.0,
+      "final_weight": 26023.0,
+      "solution_size": 137,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9950.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -69589.0
+      },
+      "timestamp": 1762960640.5968466,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n500_seed20251022.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251022,
+    "best_value": 70383.0,
+    "runtime": 23.442107400042005,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 23.439854299998842,
+      "final_value": 70383.0,
+      "final_weight": 26023.0,
+      "solution_size": 140,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9950.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -70383.0
+      },
+      "timestamp": 1762960664.0410814,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251023.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251023,
+    "best_value": 26494.0,
+    "runtime": 1.373657300020568,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.3735755999805406,
+      "final_value": 26494.0,
+      "final_weight": 12298.0,
+      "solution_size": 52,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9910.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -26494.0
+      },
+      "timestamp": 1762960665.417322,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n100_seed20251023.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251023,
+    "best_value": 27656.0,
+    "runtime": 1.3529764999402687,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.3528628000058234,
+      "final_value": 27656.0,
+      "final_weight": 12298.0,
+      "solution_size": 54,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9910.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -27656.0
+      },
+      "timestamp": 1762960666.771211,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n100_seed20251023.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251023,
+    "best_value": 27812.0,
+    "runtime": 1.384428899968043,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.3843225999735296,
+      "final_value": 27812.0,
+      "final_weight": 12298.0,
+      "solution_size": 57,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9910.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -27812.0
+      },
+      "timestamp": 1762960668.1561532,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n250_seed20251024.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251024,
+    "best_value": 71302.0,
+    "runtime": 4.815030399942771,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 4.814439000096172,
+      "final_value": 71302.0,
+      "final_weight": 31259.0,
+      "solution_size": 130,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9980.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -71302.0
+      },
+      "timestamp": 1762960672.971268,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n250_seed20251024.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251024,
+    "best_value": 74059.0,
+    "runtime": 4.772268100059591,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 4.77193599997554,
+      "final_value": 74059.0,
+      "final_weight": 31259.0,
+      "solution_size": 128,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9980.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -74059.0
+      },
+      "timestamp": 1762960677.7443995,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n250_seed20251024.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251024,
+    "best_value": 71581.0,
+    "runtime": 4.772893299930729,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 4.772375100059435,
+      "final_value": 71581.0,
+      "final_weight": 31259.0,
+      "solution_size": 136,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9980.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -71581.0
+      },
+      "timestamp": 1762960682.5179589,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n500_seed20251025.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251025,
+    "best_value": 140267.0,
+    "runtime": 27.700823699939065,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 27.698890700004995,
+      "final_value": 140267.0,
+      "final_weight": 60982.0,
+      "solution_size": 265,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9970.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -140267.0
+      },
+      "timestamp": 1762960710.2184205,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n500_seed20251025.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251025,
+    "best_value": 137298.0,
+    "runtime": 27.856542499968782,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 27.854458899935707,
+      "final_value": 137298.0,
+      "final_weight": 60982.0,
+      "solution_size": 261,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9970.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -137298.0
+      },
+      "timestamp": 1762960738.0753052,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n500_seed20251025.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251025,
+    "best_value": 140358.0,
+    "runtime": 27.712968899984844,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 27.710536500089802,
+      "final_value": 140358.0,
+      "final_weight": 60982.0,
+      "solution_size": 267,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9970.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -140358.0
+      },
+      "timestamp": 1762960765.7887928,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251026.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251026,
+    "best_value": 39301.0,
+    "runtime": 1.349981200066395,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.3499021000461653,
+      "final_value": 39301.0,
+      "final_weight": 18759.0,
+      "solution_size": 79,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9970.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -39301.0
+      },
+      "timestamp": 1762960767.141224,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n100_seed20251026.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251026,
+    "best_value": 39162.0,
+    "runtime": 1.3132209000177681,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.3130927999736741,
+      "final_value": 39162.0,
+      "final_weight": 18759.0,
+      "solution_size": 79,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9970.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -39162.0
+      },
+      "timestamp": 1762960768.4554446,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n100_seed20251026.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251026,
+    "best_value": 37624.0,
+    "runtime": 1.3383845000062138,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.338268900057301,
+      "final_value": 37624.0,
+      "final_weight": 18759.0,
+      "solution_size": 76,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9970.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -37624.0
+      },
+      "timestamp": 1762960769.7939937,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n250_seed20251027.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251027,
+    "best_value": 98398.0,
+    "runtime": 6.6628674999810755,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 6.662500399979763,
+      "final_value": 98398.0,
+      "final_weight": 50245.0,
+      "solution_size": 189,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9990.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -98398.0
+      },
+      "timestamp": 1762960776.4572852,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n250_seed20251027.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251027,
+    "best_value": 97696.0,
+    "runtime": 6.6101094000041485,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 6.609751900075935,
+      "final_value": 97696.0,
+      "final_weight": 50245.0,
+      "solution_size": 187,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9990.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -97696.0
+      },
+      "timestamp": 1762960783.0683293,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n250_seed20251027.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251027,
+    "best_value": 97735.0,
+    "runtime": 6.625844500027597,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 6.625338700017892,
+      "final_value": 97735.0,
+      "final_weight": 50245.0,
+      "solution_size": 187,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9990.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -97735.0
+      },
+      "timestamp": 1762960789.694791,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n500_seed20251028.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251028,
+    "best_value": 192651.0,
+    "runtime": 22.708366899983957,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 22.706661799922585,
+      "final_value": 192651.0,
+      "final_weight": 101463.0,
+      "solution_size": 377,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -192651.0
+      },
+      "timestamp": 1762960812.4022624,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n500_seed20251028.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251028,
+    "best_value": 193514.0,
+    "runtime": 22.321779299993068,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 22.319920699927025,
+      "final_value": 193514.0,
+      "final_weight": 101463.0,
+      "solution_size": 378,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -193514.0
+      },
+      "timestamp": 1762960834.724672,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n500_seed20251028.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251028,
+    "best_value": 190395.0,
+    "runtime": 22.794032800011337,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 22.791790000046603,
+      "final_value": 190395.0,
+      "final_weight": 101463.0,
+      "solution_size": 374,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -190395.0
+      },
+      "timestamp": 1762960857.5182185,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251120.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251120,
+    "best_value": 14030.0,
+    "runtime": 1.6216791000915691,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.621563500026241,
+      "final_value": 14030.0,
+      "final_weight": 5021.0,
+      "solution_size": 24,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8560.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -14030.0
+      },
+      "timestamp": 1762960859.1427732,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n100_seed20251120.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251120,
+    "best_value": 14424.0,
+    "runtime": 1.5536716999486089,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.5535847999854013,
+      "final_value": 14424.0,
+      "final_weight": 5021.0,
+      "solution_size": 25,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8560.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -14424.0
+      },
+      "timestamp": 1762960860.6974277,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n100_seed20251120.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251120,
+    "best_value": 13370.0,
+    "runtime": 1.579930300009437,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.579849599977024,
+      "final_value": 13370.0,
+      "final_weight": 5021.0,
+      "solution_size": 25,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8560.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -13370.0
+      },
+      "timestamp": 1762960862.2785974,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n250_seed20251121.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251121,
+    "best_value": 28574.0,
+    "runtime": 8.457764699938707,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 8.457427099929191,
+      "final_value": 28574.0,
+      "final_weight": 12370.0,
+      "solution_size": 56,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9060.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -28574.0
+      },
+      "timestamp": 1762960870.7367377,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n250_seed20251121.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251121,
+    "best_value": 27981.0,
+    "runtime": 8.269733399967663,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 8.269201199989766,
+      "final_value": 27981.0,
+      "final_weight": 12370.0,
+      "solution_size": 58,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9060.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -27981.0
+      },
+      "timestamp": 1762960879.0069978,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n250_seed20251121.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251121,
+    "best_value": 26961.0,
+    "runtime": 8.347050199983642,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 8.3465083000483,
+      "final_value": 26961.0,
+      "final_weight": 12370.0,
+      "solution_size": 56,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9060.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -26961.0
+      },
+      "timestamp": 1762960887.3543477,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n500_seed20251122.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251122,
+    "best_value": 58171.0,
+    "runtime": 31.582462599966675,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 31.580912100034766,
+      "final_value": 58171.0,
+      "final_weight": 24749.0,
+      "solution_size": 112,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9830.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -58171.0
+      },
+      "timestamp": 1762960918.936377,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n500_seed20251122.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251122,
+    "best_value": 59645.0,
+    "runtime": 31.367409600061364,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 31.36570510000456,
+      "final_value": 59645.0,
+      "final_weight": 24749.0,
+      "solution_size": 113,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9830.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -59645.0
+      },
+      "timestamp": 1762960950.3043725,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n500_seed20251122.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251122,
+    "best_value": 58540.0,
+    "runtime": 31.394011599943042,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 31.391760800033808,
+      "final_value": 58540.0,
+      "final_weight": 24749.0,
+      "solution_size": 112,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9830.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -58540.0
+      },
+      "timestamp": 1762960981.6987603,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251123.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251123,
+    "best_value": 26556.0,
+    "runtime": 1.4038558999309316,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.4037724999943748,
+      "final_value": 26556.0,
+      "final_weight": 13312.0,
+      "solution_size": 51,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9320.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -26556.0
+      },
+      "timestamp": 1762960983.1055188,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n100_seed20251123.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251123,
+    "best_value": 25785.0,
+    "runtime": 1.4209804999409243,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.420864999992773,
+      "final_value": 25785.0,
+      "final_weight": 13312.0,
+      "solution_size": 53,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9320.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -25785.0
+      },
+      "timestamp": 1762960984.5274293,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n100_seed20251123.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251123,
+    "best_value": 26415.0,
+    "runtime": 1.4043422000249848,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.4042227999307215,
+      "final_value": 26415.0,
+      "final_weight": 13312.0,
+      "solution_size": 54,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9320.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -26415.0
+      },
+      "timestamp": 1762960985.9322162,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n250_seed20251124.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251124,
+    "best_value": 65880.0,
+    "runtime": 5.059977000113577,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 5.059488800005056,
+      "final_value": 65880.0,
+      "final_weight": 31485.0,
+      "solution_size": 132,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9150.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -65880.0
+      },
+      "timestamp": 1762960990.9928632,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n250_seed20251124.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251124,
+    "best_value": 65174.0,
+    "runtime": 5.086651800083928,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 5.0862900000065565,
+      "final_value": 65174.0,
+      "final_weight": 31485.0,
+      "solution_size": 125,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9150.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -65174.0
+      },
+      "timestamp": 1762960996.0805507,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n250_seed20251124.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251124,
+    "best_value": 65298.0,
+    "runtime": 5.084872400038876,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 5.084337499924004,
+      "final_value": 65298.0,
+      "final_weight": 31485.0,
+      "solution_size": 128,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9150.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -65298.0
+      },
+      "timestamp": 1762961001.1652267,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n500_seed20251125.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251125,
+    "best_value": 128026.0,
+    "runtime": 28.456780400010757,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 28.45497580000665,
+      "final_value": 128026.0,
+      "final_weight": 61848.0,
+      "solution_size": 258,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8980.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -128026.0
+      },
+      "timestamp": 1762961029.621812,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n500_seed20251125.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251125,
+    "best_value": 130349.0,
+    "runtime": 28.369209700031206,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 28.367138299974613,
+      "final_value": 130349.0,
+      "final_weight": 61848.0,
+      "solution_size": 257,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8980.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -130349.0
+      },
+      "timestamp": 1762961057.9912374,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n500_seed20251125.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251125,
+    "best_value": 127785.0,
+    "runtime": 28.167887600022368,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 28.166096000000834,
+      "final_value": 127785.0,
+      "final_weight": 61848.0,
+      "solution_size": 253,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8980.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -127785.0
+      },
+      "timestamp": 1762961086.1599977,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251126.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251126,
+    "best_value": 38603.0,
+    "runtime": 1.5839940999867395,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.5838783000363037,
+      "final_value": 38603.0,
+      "final_weight": 20167.0,
+      "solution_size": 79,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8940.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -38603.0
+      },
+      "timestamp": 1762961087.7466564,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n100_seed20251126.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251126,
+    "best_value": 38270.0,
+    "runtime": 1.5805857999948785,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.5804790999973193,
+      "final_value": 38270.0,
+      "final_weight": 20167.0,
+      "solution_size": 79,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8940.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -38270.0
+      },
+      "timestamp": 1762961089.3276794,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n100_seed20251126.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251126,
+    "best_value": 38738.0,
+    "runtime": 1.5895142999943346,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 1.5894241000059992,
+      "final_value": 38738.0,
+      "final_weight": 20167.0,
+      "solution_size": 79,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8940.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -38738.0
+      },
+      "timestamp": 1762961090.9183888,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n250_seed20251127.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251127,
+    "best_value": 98657.0,
+    "runtime": 7.58597620006185,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 7.58527039992623,
+      "final_value": 98657.0,
+      "final_weight": 51116.0,
+      "solution_size": 195,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9820.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -98657.0
+      },
+      "timestamp": 1762961098.5042586,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n250_seed20251127.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251127,
+    "best_value": 100681.0,
+    "runtime": 7.706071100081317,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 7.705722599988803,
+      "final_value": 100681.0,
+      "final_weight": 51116.0,
+      "solution_size": 200,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9820.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -100681.0
+      },
+      "timestamp": 1762961106.2121317,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n250_seed20251127.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251127,
+    "best_value": 100283.0,
+    "runtime": 7.596669099992141,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 7.596106800017878,
+      "final_value": 100283.0,
+      "final_weight": 51116.0,
+      "solution_size": 198,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 9820.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -100283.0
+      },
+      "timestamp": 1762961113.808644,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n500_seed20251128.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251128,
+    "best_value": 198168.0,
+    "runtime": 28.10801139997784,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 28.10649709997233,
+      "final_value": 198168.0,
+      "final_weight": 100698.0,
+      "solution_size": 395,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8960.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -198168.0
+      },
+      "timestamp": 1762961141.91632,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n500_seed20251128.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251128,
+    "best_value": 196942.0,
+    "runtime": 28.221550300018862,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 28.219960399903357,
+      "final_value": 196942.0,
+      "final_weight": 100698.0,
+      "solution_size": 394,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8960.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -196942.0
+      },
+      "timestamp": 1762961170.1385157,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n500_seed20251128.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251128,
+    "best_value": 195434.0,
+    "runtime": 28.032059999997728,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 28.030564699904062,
+      "final_value": 195434.0,
+      "final_weight": 100698.0,
+      "solution_size": 391,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 8960.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -195434.0
+      },
+      "timestamp": 1762961198.171427,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251220.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251220,
+    "best_value": 1888.0,
+    "runtime": 2.324341099942103,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 2.3242613000329584,
+      "final_value": 1888.0,
+      "final_weight": 235.0,
+      "solution_size": 52,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1888.0
+      },
+      "timestamp": 1762961200.4970932,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n100_seed20251220.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251220,
+    "best_value": 1974.0,
+    "runtime": 2.340983900008723,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 2.34090350009501,
+      "final_value": 1974.0,
+      "final_weight": 235.0,
+      "solution_size": 58,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1974.0
+      },
+      "timestamp": 1762961202.8389502,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n100_seed20251220.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251220,
+    "best_value": 1907.0,
+    "runtime": 2.414812700008042,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 2.414602000033483,
+      "final_value": 1907.0,
+      "final_weight": 235.0,
+      "solution_size": 48,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1907.0
+      },
+      "timestamp": 1762961205.2546506,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n250_seed20251221.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251221,
+    "best_value": 1619.0,
+    "runtime": 13.541062299977057,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 13.540676600066945,
+      "final_value": 1619.0,
+      "final_weight": 888.0,
+      "solution_size": 125,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 1650.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1619.0
+      },
+      "timestamp": 1762961218.7957718,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n250_seed20251221.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251221,
+    "best_value": 1578.0,
+    "runtime": 13.434755399939604,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 13.434384000021964,
+      "final_value": 1578.0,
+      "final_weight": 888.0,
+      "solution_size": 127,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 1650.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1578.0
+      },
+      "timestamp": 1762961232.2310138,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n250_seed20251221.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251221,
+    "best_value": 1635.0,
+    "runtime": 13.542288399999961,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 13.541877800016664,
+      "final_value": 1635.0,
+      "final_weight": 888.0,
+      "solution_size": 146,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 1650.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1635.0
+      },
+      "timestamp": 1762961245.774087,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n500_seed20251222.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251222,
+    "best_value": 5217.0,
+    "runtime": 51.88775880006142,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 51.88620639999863,
+      "final_value": 5217.0,
+      "final_weight": 1194.0,
+      "solution_size": 225,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -5217.0
+      },
+      "timestamp": 1762961297.660686,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n500_seed20251222.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251222,
+    "best_value": 5886.0,
+    "runtime": 51.94577340001706,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 51.94408829999156,
+      "final_value": 5886.0,
+      "final_weight": 1194.0,
+      "solution_size": 242,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -5886.0
+      },
+      "timestamp": 1762961349.6068997,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n500_seed20251222.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "instance_seed": 20251222,
+    "best_value": 5530.0,
+    "runtime": 51.85202439990826,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 51.849861000082456,
+      "final_value": 5530.0,
+      "final_weight": 1194.0,
+      "solution_size": 226,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -5530.0
+      },
+      "timestamp": 1762961401.4594126,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251223.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251223,
+    "best_value": 1240.0,
+    "runtime": 2.3369107000762597,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 2.336826500017196,
+      "final_value": 1240.0,
+      "final_weight": 944.0,
+      "solution_size": 70,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 6870.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1240.0
+      },
+      "timestamp": 1762961403.7991674,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n100_seed20251223.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251223,
+    "best_value": 1242.0,
+    "runtime": 2.3599993999814615,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 2.3599122999003157,
+      "final_value": 1242.0,
+      "final_weight": 944.0,
+      "solution_size": 74,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 6870.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1242.0
+      },
+      "timestamp": 1762961406.1597328,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n100_seed20251223.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251223,
+    "best_value": 1246.0,
+    "runtime": 2.319717500009574,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 2.3196407000068575,
+      "final_value": 1246.0,
+      "final_weight": 944.0,
+      "solution_size": 77,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 6870.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1246.0
+      },
+      "timestamp": 1762961408.479522,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n250_seed20251224.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251224,
+    "best_value": 3330.0,
+    "runtime": 13.181266499916092,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 13.180846100091003,
+      "final_value": 3330.0,
+      "final_weight": 1244.0,
+      "solution_size": 133,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -3330.0
+      },
+      "timestamp": 1762961421.6614857,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n250_seed20251224.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251224,
+    "best_value": 3297.0,
+    "runtime": 13.292649000068195,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 13.292285699979402,
+      "final_value": 3297.0,
+      "final_weight": 1244.0,
+      "solution_size": 125,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -3297.0
+      },
+      "timestamp": 1762961434.9547288,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n250_seed20251224.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251224,
+    "best_value": 3379.0,
+    "runtime": 13.30354009999428,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 13.302968200063333,
+      "final_value": 3379.0,
+      "final_weight": 1244.0,
+      "solution_size": 133,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -3379.0
+      },
+      "timestamp": 1762961448.2582066,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n500_seed20251225.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251225,
+    "best_value": 5407.0,
+    "runtime": 50.97210710006766,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 50.96992219996173,
+      "final_value": 5407.0,
+      "final_weight": 3116.0,
+      "solution_size": 260,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -5407.0
+      },
+      "timestamp": 1762961499.2294245,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n500_seed20251225.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251225,
+    "best_value": 5471.0,
+    "runtime": 50.68868070002645,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 50.686348799965344,
+      "final_value": 5471.0,
+      "final_weight": 3116.0,
+      "solution_size": 254,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -5471.0
+      },
+      "timestamp": 1762961549.9188383,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n500_seed20251225.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "instance_seed": 20251225,
+    "best_value": 5450.0,
+    "runtime": 50.870948199997656,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 50.86899949994404,
+      "final_value": 5450.0,
+      "final_weight": 3116.0,
+      "solution_size": 276,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -5450.0
+      },
+      "timestamp": 1762961600.7912323,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n100_seed20251226.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251226,
+    "best_value": 2095.0,
+    "runtime": 2.3697171999374405,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 2.369608899927698,
+      "final_value": 2095.0,
+      "final_weight": 463.0,
+      "solution_size": 71,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -2095.0
+      },
+      "timestamp": 1762961603.1636317,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n100_seed20251226.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251226,
+    "best_value": 2080.0,
+    "runtime": 2.3244249999988824,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 2.3243436999619007,
+      "final_value": 2080.0,
+      "final_weight": 463.0,
+      "solution_size": 69,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -2080.0
+      },
+      "timestamp": 1762961605.4880872,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n100_seed20251226.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251226,
+    "best_value": 2080.0,
+    "runtime": 2.2719111000187695,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 2.271836700034328,
+      "final_value": 2080.0,
+      "final_weight": 463.0,
+      "solution_size": 65,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -2080.0
+      },
+      "timestamp": 1762961607.760583,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n250_seed20251227.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251227,
+    "best_value": 1241.0,
+    "runtime": 13.269869500072673,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 13.269478200003505,
+      "final_value": 1241.0,
+      "final_weight": 2481.0,
+      "solution_size": 137,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 2250.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1241.0
+      },
+      "timestamp": 1762961621.0310035,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n250_seed20251227.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251227,
+    "best_value": 1205.0,
+    "runtime": 13.357473599957302,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 13.35710200003814,
+      "final_value": 1205.0,
+      "final_weight": 2481.0,
+      "solution_size": 142,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 2250.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1205.0
+      },
+      "timestamp": 1762961634.3893557,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n250_seed20251227.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251227,
+    "best_value": 1233.0,
+    "runtime": 13.396401400095783,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 13.395807499997318,
+      "final_value": 1233.0,
+      "final_weight": 2481.0,
+      "solution_size": 148,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 2250.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -1233.0
+      },
+      "timestamp": 1762961647.7855375,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241019,
+    "run_index": 0,
+    "instance_file": "knapsack_n500_seed20251228.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251228,
+    "best_value": 6253.0,
+    "runtime": 52.948480999912135,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 52.94696530001238,
+      "final_value": 6253.0,
+      "final_weight": 5883.0,
+      "solution_size": 281,
+      "seed": 20241019,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -6253.0
+      },
+      "timestamp": 1762961700.7340832,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241020,
+    "run_index": 1,
+    "instance_file": "knapsack_n500_seed20251228.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251228,
+    "best_value": 6082.0,
+    "runtime": 52.47625519998837,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 52.47473750007339,
+      "final_value": 6082.0,
+      "final_weight": 5883.0,
+      "solution_size": 286,
+      "seed": 20241020,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -6082.0
+      },
+      "timestamp": 1762961753.2106538,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  },
+  {
+    "method": "QuantumAnnealing",
+    "parameters": {
+      "num_reads": 500,
+      "penalty_multiplier": 10
+    },
+    "seed": 20241021,
+    "run_index": 2,
+    "instance_file": "knapsack_n500_seed20251228.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "instance_seed": 20251228,
+    "best_value": 6084.0,
+    "runtime": 52.32954549998976,
+    "logs": {
+      "message": "quantum_annealing finished",
+      "runtime": 52.32745809992775,
+      "final_value": 6084.0,
+      "final_weight": 5883.0,
+      "solution_size": 275,
+      "seed": 20241021,
+      "params": {
+        "method": "quantum_annealing_simulated",
+        "sampler_used": "neal.SimulatedAnnealingSampler",
+        "num_reads": 500,
+        "penalty_multiplier": 10.0,
+        "A": 10000.0,
+        "feasible_sample_found": true,
+        "samples_checked": 500
+      },
+      "extra": {
+        "best_energy": -6084.0
+      },
+      "timestamp": 1762961805.5404723,
+      "sanity_warnings": [],
+      "infeasible": false
+    }
+  }
+]

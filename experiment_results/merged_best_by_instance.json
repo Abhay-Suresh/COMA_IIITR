@@ -1,0 +1,1318 @@
+[
+  {
+    "instance_file": "knapsack_n100_seed20251020.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "best_value_overall": 25554.0,
+    "winners": [
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 25554.0,
+        "runtime": 0.33022880007047206,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 25554.0,
+        "runtime": 0.32544509996660054,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 25554.0,
+        "runtime": 0.3259946999605745,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 17483.0,
+    "best_classical": 25554.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n100_seed20251023.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "best_value_overall": 39931.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 39931.0,
+        "runtime": 5.67000824958086e-05,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 39931.0,
+        "runtime": 0.3160855999449268,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 27812.0,
+    "best_classical": 39931.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n100_seed20251026.json",
+    "instance_n": 100,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "best_value_overall": 45613.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 45613.0,
+        "runtime": 6.150000263005495e-05,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 45613.0,
+        "runtime": 0.3139033999759704,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 45613.0,
+        "runtime": 0.3155856999801472,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 45613.0,
+        "runtime": 0.32873720000497997,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 39301.0,
+    "best_classical": 45613.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n100_seed20251120.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "best_value_overall": 18691.0,
+    "winners": [
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 18691.0,
+        "runtime": 0.3216008000308648,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 14424.0,
+    "best_classical": 18691.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n100_seed20251123.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "best_value_overall": 33418.0,
+    "winners": [
+      {
+        "method": "GeneticAlgorithm",
+        "best_value": 33418.0,
+        "runtime": 0.21364650002215058,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "pop_size": 100,
+          "generations": 200,
+          "mutation_rate": 0.02
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 33418.0,
+        "runtime": 0.3232258999487385,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 33418.0,
+        "runtime": 0.32043980003800243,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 33418.0,
+        "runtime": 0.32407259999308735,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 26556.0,
+    "best_classical": 33418.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n100_seed20251126.json",
+    "instance_n": 100,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "best_value_overall": 43669.0,
+    "winners": [
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 43669.0,
+        "runtime": 0.3102715000277385,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 38738.0,
+    "best_classical": 43669.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n100_seed20251220.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "best_value_overall": 2064.0,
+    "winners": [
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 2064.0,
+        "runtime": 0.3111920999363065,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 2064.0,
+        "runtime": 0.31518190004862845,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 2064.0,
+        "runtime": 0.31250070000533015,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 1974.0,
+    "best_classical": 2064.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n100_seed20251223.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "best_value_overall": 1332.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 1332.0,
+        "runtime": 4.950002767145634e-05,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      },
+      {
+        "method": "GeneticAlgorithm",
+        "best_value": 1332.0,
+        "runtime": 0.1878866000333801,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "pop_size": 100,
+          "generations": 200,
+          "mutation_rate": 0.02
+        }
+      },
+      {
+        "method": "Greedy_Value",
+        "best_value": 1332.0,
+        "runtime": 3.830005880445242e-05,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value-first"
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 1332.0,
+        "runtime": 0.7277758000418544,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 1332.0,
+        "runtime": 0.7265693000517786,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 1332.0,
+        "runtime": 0.7297662999480963,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "Greedy_Weight",
+        "best_value": 1332.0,
+        "runtime": 3.670004662126303e-05,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "weight-first"
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 1332.0,
+        "runtime": 0.3073941000038758,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 1332.0,
+        "runtime": 0.30598799989093095,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 1332.0,
+        "runtime": 0.3062047999119386,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 1246.0,
+    "best_classical": 1332.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n100_seed20251226.json",
+    "instance_n": 100,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "best_value_overall": 2194.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 2194.0,
+        "runtime": 5.4200063459575176e-05,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 2194.0,
+        "runtime": 0.776786100002937,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 2194.0,
+        "runtime": 0.7765039999503642,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 2194.0,
+        "runtime": 0.7773444999475032,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "Greedy_Weight",
+        "best_value": 2194.0,
+        "runtime": 3.700004890561104e-05,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "weight-first"
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 2194.0,
+        "runtime": 0.3004188999766484,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 2194.0,
+        "runtime": 0.29915710003115237,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 2194.0,
+        "runtime": 0.3010937999933958,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 2095.0,
+    "best_classical": 2194.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n250_seed20251021.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "best_value_overall": 63432.0,
+    "winners": [
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 63432.0,
+        "runtime": 0.8912028999766335,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 39812.0,
+    "best_classical": 63432.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n250_seed20251024.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "best_value_overall": 103886.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 103886.0,
+        "runtime": 0.0001284999307245016,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      }
+    ],
+    "best_quantum": 74059.0,
+    "best_classical": 103886.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n250_seed20251027.json",
+    "instance_n": 250,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "best_value_overall": 121865.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 121865.0,
+        "runtime": 0.00014899997040629387,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      }
+    ],
+    "best_quantum": 98398.0,
+    "best_classical": 121865.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n250_seed20251121.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "best_value_overall": 41378.0,
+    "winners": [
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 41378.0,
+        "runtime": 0.8802667000563815,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 28574.0,
+    "best_classical": 41378.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n250_seed20251124.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "best_value_overall": 84789.0,
+    "winners": [
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 84789.0,
+        "runtime": 0.8581938999705017,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 65880.0,
+    "best_classical": 84789.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n250_seed20251127.json",
+    "instance_n": 250,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "best_value_overall": 113622.0,
+    "winners": [
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 113622.0,
+        "runtime": 0.8260271000908688,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 100681.0,
+    "best_classical": 113622.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n250_seed20251221.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "best_value_overall": 2125.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 2125.0,
+        "runtime": 0.00012290000449866056,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 2125.0,
+        "runtime": 0.8096968999598175,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 2125.0,
+        "runtime": 0.8033864999888465,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 2125.0,
+        "runtime": 0.818814400001429,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 1635.0,
+    "best_classical": 2125.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n250_seed20251224.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "best_value_overall": 3954.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 3954.0,
+        "runtime": 0.0001490999711677432,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 3954.0,
+        "runtime": 3.9898445999715477,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 3954.0,
+        "runtime": 4.0605272999964654,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 3954.0,
+        "runtime": 4.022918400005437,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 3954.0,
+        "runtime": 0.8134189998963848,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 3954.0,
+        "runtime": 0.816397299990058,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 3954.0,
+        "runtime": 0.8123091000597924,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 3379.0,
+    "best_classical": 3954.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n250_seed20251227.json",
+    "instance_n": 250,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "best_value_overall": 1644.0,
+    "winners": [
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 1644.0,
+        "runtime": 3.9613804999971762,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 1644.0,
+        "runtime": 3.9737196000060067,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 1644.0,
+        "runtime": 3.9768399000167847,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      }
+    ],
+    "best_quantum": 1241.0,
+    "best_classical": 1644.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n500_seed20251022.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.2",
+    "best_value_overall": 117410.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 117410.0,
+        "runtime": 0.00035440002102404833,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      }
+    ],
+    "best_quantum": 73352.0,
+    "best_classical": 117410.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n500_seed20251025.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.5",
+    "best_value_overall": 205859.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 205859.0,
+        "runtime": 0.0003237000200897455,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      }
+    ],
+    "best_quantum": 140358.0,
+    "best_classical": 205859.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n500_seed20251028.json",
+    "instance_n": 500,
+    "instance_dist": "uniform",
+    "instance_cap_ratio_str": "cap_0.8",
+    "best_value_overall": 237590.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 237590.0,
+        "runtime": 0.0003239000216126442,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      }
+    ],
+    "best_quantum": 193514.0,
+    "best_classical": 237590.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n500_seed20251122.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.2",
+    "best_value_overall": 87393.0,
+    "winners": [
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 87393.0,
+        "runtime": 1.865073800086975,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 59645.0,
+    "best_classical": 87393.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n500_seed20251125.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.5",
+    "best_value_overall": 168628.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 168628.0,
+        "runtime": 0.0002649999223649502,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      }
+    ],
+    "best_quantum": 130349.0,
+    "best_classical": 168628.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n500_seed20251128.json",
+    "instance_n": 500,
+    "instance_dist": "normal",
+    "instance_cap_ratio_str": "cap_0.8",
+    "best_value_overall": 226674.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 226674.0,
+        "runtime": 0.000273600104264915,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 226674.0,
+        "runtime": 1.7667751000262797,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 226674.0,
+        "runtime": 1.7692784999962896,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 226674.0,
+        "runtime": 1.7737199000548571,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 198168.0,
+    "best_classical": 226674.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n500_seed20251222.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.2",
+    "best_value_overall": 7097.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 7097.0,
+        "runtime": 0.00025269994512200356,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 7097.0,
+        "runtime": 1.753582900040783,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 7097.0,
+        "runtime": 1.7607775999931619,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 7097.0,
+        "runtime": 1.777963800006546,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 5886.0,
+    "best_classical": 7097.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n500_seed20251225.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.5",
+    "best_value_overall": 7252.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 7252.0,
+        "runtime": 0.0003524000057950616,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 7252.0,
+        "runtime": 15.2686252000276,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 7252.0,
+        "runtime": 15.360111800022423,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      }
+    ],
+    "best_quantum": 5471.0,
+    "best_classical": 7252.0,
+    "num_runs": 15
+  },
+  {
+    "instance_file": "knapsack_n500_seed20251228.json",
+    "instance_n": 500,
+    "instance_dist": "zipf",
+    "instance_cap_ratio_str": "cap_0.8",
+    "best_value_overall": 7445.0,
+    "winners": [
+      {
+        "method": "Greedy_Ratio",
+        "best_value": 7445.0,
+        "runtime": 0.00026760005857795477,
+        "seed": null,
+        "run_index": 0,
+        "parameters": {
+          "heuristic": "value/weight ratio"
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 7445.0,
+        "runtime": 15.310123400064185,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 7445.0,
+        "runtime": 15.303071100031957,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "AntColonyOptimization",
+        "best_value": 7445.0,
+        "runtime": 15.2129847999895,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "ants": 50,
+          "iterations": 100,
+          "evaporation": 0.1
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 7445.0,
+        "runtime": 1.7140933000482619,
+        "seed": 20241019,
+        "run_index": 0,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 7445.0,
+        "runtime": 1.709683799999766,
+        "seed": 20241020,
+        "run_index": 1,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      },
+      {
+        "method": "ParticleSwarmOptimization",
+        "best_value": 7445.0,
+        "runtime": 1.6913606999441981,
+        "seed": 20241021,
+        "run_index": 2,
+        "parameters": {
+          "particles": 50,
+          "iterations": 100,
+          "w": 0.7,
+          "c1": 1.5,
+          "c2": 1.5
+        }
+      }
+    ],
+    "best_quantum": 6253.0,
+    "best_classical": 7445.0,
+    "num_runs": 15
+  }
+]
